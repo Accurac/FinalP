@@ -1,0 +1,64 @@
+html {
+	background-color: #262626;
+}
+
+body h1 {
+	text-align: center;
+	text-shadow: 1px 1px #262626;
+	color: #ff9933;
+	font-family: Castellar;
+}
+
+.container {
+	align: center;
+	text-align: center;
+	padding: 2px 2px;
+	margin: 2px auto;
+	max-width: 35%;
+}
+
+.SignUp {
+	align: center;
+	padding: 2px 2px;
+	margin: 2px 2px;
+	text-align: center;
+}
+
+
+.label {
+	display: none;
+}
+
+input[type=text] {
+	width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.Gen {
+	color: #ff9933;
+	padding: 10px 20px;
+	margin: 5px 0;
+}
+
+.check {
+	color: #ff9933;
+}
+
+button {
+	background-color: #204060;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+}
+
+.cancelbut {
+	padding: 14px 20px;
+	background-color: #cc6600;
+}
